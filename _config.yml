@@ -5,7 +5,7 @@ repository: psi9730/resume
 name: Seungil Park
 title: Sophomore web programmer
 email: psi9730@naver.com
-website: https://psi9730.github.io/machinelearning-blog/
+website: psi9730.github.io/machinelearning-blog/
 
 # Social links
 github_username:  psi9730
@@ -16,7 +16,7 @@ github_username:  psi9730
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
 
-  I am most skilled in: <mark>tensorflow</mark>, <mark>pytorch</mark>, <mark>docker</mark>, <mark>react.js</mark>, <mark>vue.js</mark>, <mark>angular.js</mark>, <mark>jquery</mark>, <mark>mysql</mark>, <mark>react-native</mark>, <mark>php</mark>
+  I am most skilled in: <mark>tensorflow</mark>, <mark>pytorch</mark>, <mark>docker</mark>, <mark>react.js</mark>, <mark>vue.js</mark>, <mark>angular.js</mark>, <mark>jquery</mark>, <mark>mysql</mark>, <mark>react-native</mark>, <mark>django</mark>, <mark>php</mark>, <mark>node</mark>
 
 # Projects Section
 # projects_title: Projects
