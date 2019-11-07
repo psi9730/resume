@@ -1,12 +1,11 @@
 # Site
-repository: sproogen/resume-theme
+repository: psi9730/resume
 # favicon: images/favicon.ico
-
 # Personal info
 name: Seungil Park
-title: 2년차 web programmer, 뛰어나신 분들과 함께 딥러닝을 공부하고싶은 개발자입니다!
+title: Sophomore web programmer
 email: psi9730@naver.com
-website: http://psi9730.github.io/
+website: https://psi9730.github.io/machinelearning-blog/
 
 # Social links
 github_username:  psi9730
@@ -17,8 +16,7 @@ github_username:  psi9730
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
 
-  I am most skilled in: <mark>tensorflow</mark>, <mark>pytorch</mark>, <mark>docker</mark>, <mark>react.js</mark>, <mark>vue.js</mark>, <mark>angular.js</mark>, <mark>jquery</mark>, <mark>php</mark>, <mark>mysql</mark>, <mark>react-native</mark>, <mark>php</mark>
-
+  I am most skilled in: <mark>tensorflow</mark>, <mark>pytorch</mark>, <mark>docker</mark>, <mark>react.js</mark>, <mark>vue.js</mark>, <mark>angular.js</mark>, <mark>jquery</mark>, <mark>mysql</mark>, <mark>react-native</mark>, <mark>php</mark>
 
 # Projects Section
 # projects_title: Projects
