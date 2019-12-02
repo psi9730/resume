@@ -12,7 +12,7 @@
    새로운 목표를 가지게 해주었던 AI hackathon, speech에 대한 이해와 동시에 함께하는 코딩의 재미를 알게해준 해준 시간이었습니다.
   description: | # this will include new lines to allow paragraphs
     실제 한국어 전화 DB를 이용한 음성인식을 주제로 약 한달간 해커톤을 진행했습니다. <mark>Seq2Seq model</mark>을 기반으로 모델을 학습시켰으며, 최종 순위 9등으로 해커톤을 마쳤습니다.
-    [(NAVER_AI_SPEECH)](https://github.com/psi9730/naver_ai_hackathon_speech)
+    [(NAVER_AI_SPEECH)](https://github.com/psi9730/Konyang-Health-Datatathon-2019)
 - layout: left
   name: 모두의 연구소(NLP-BOOT-CAMP 9기)
   quote: >
@@ -20,6 +20,11 @@
   description: | # this will include new lines to allow paragraphs
     매주 토요일 <mark>NLP</mark> 관련 논문을 함께 공부하고, 리뷰하는 스터디를 진행중입니다. Transformer, pre-training, data encoding 등 다양한 범위의 최신 NLP논문을 공부하고 있습니다.
     [(DEEP_LEARNING_BLOG)](https://psi9730.github.io/machinelearning-blog/)
+- layout: left
+  name: 건양대학교 안저이미지 분류 해커톤
+  description: | # this will include new lines to allow paragraphs
+    4000장의 안저 이미지를 분석해, 정상, 황반 변성, 당뇨성망막병증, 망막정맥폐쇄 classification task를 수행. keras sequential모델로 코드를 작성하였으며, VGGNET model을 base로 classification을 했습니다. 94.5% accuracy로 대상(1등)을 수상하였습니다.
+    [(FUNDUS_CLASSIFICATION)](https://psi9730.github.io/machinelearning-blog/)
 - layout: left
   name: 클라로 공기청정기 컨트롤 어플리케이션​
   description: | # this will include new lines to allow paragraphs
