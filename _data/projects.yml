@@ -36,4 +36,4 @@
 - layout: left
   name: 공구마켓 쇼핑몰 페이지 개발
   description: | # this will include new lines to allow paragraphs
-    인플루언서마다 개인 쇼핑몰 페이지를 개설해주는 웹 개발 프로젝트를 진행했습니다. Vue.js를 기반으로 <mark>fully dockerized project</mark>를 개발했으며, <mark>Jenkins(CI) tool</mark>, <mark>AWS(ECR, ECS)</mark>을 이용한 자동배포 및 테스트환경을 사내에서 처음 적용시켰습니다.
+    인플루언서마다 개인 쇼핑몰 페이지를 개설해주는 웹 개발 프로젝트를 진행했습니다. Vue.js를 기반으로 <mark>fully dockerized project</mark>를 개발했으며, <mark>Jenkins(CI) tool</mark>, <mark>AWS(ECR, ECS)</mark>을 이용한 자동배포 및 테스트환경을 사내에서 처음 적용시켰습니다.[(마켓잇 공구마켓)](https://www.marketit.shop/)
