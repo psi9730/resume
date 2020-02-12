@@ -14,8 +14,7 @@
   name: 의류관리 페이지 개발(진행중)
   description: | # this will include new lines to allow paragraphs
     의류대여 서비스 물류 관리 및 고객 관리 백 오피스 개발 프로젝트를 진행하고있습니다. Backend는 <mark>Node.js</mark> <mark>express</mark> 웹 어플리케이션 프레임워크 기반으로 진행중이며, FrontEnd는 <mark>React.js</mark>, <mark>typescript</mark>, <mark>mobx</mark>를 기반으로 개발을 진행중입니다.
-    <br>(BACKEND)(https://github.com/psi9730/monthly-closet-backent)
-    <br>(FRONTEND)(https://github.com/psi9730/monthly-closet-web-front)
+    <br>[(BACKEND)](https://github.com/psi9730/monthly-closet-backent) [(FRONTEND)](https://github.com/psi9730/monthly-closet-web-front)
 - layout: left
   name: Image matching
   description: | # this will include new lines to allow paragraphs
@@ -26,23 +25,23 @@
    새로운 목표를 가지게 해주었던 AI hackathon, speech에 대한 이해와 동시에 함께하는 코딩의 재미를 알게해준 해준 시간이었습니다.
   description: | # this will include new lines to allow paragraphs
     실제 한국어 전화 DB를 이용한 음성인식을 주제로 약 한달간 해커톤을 진행했습니다. <mark>Seq2Seq model</mark>을 기반으로 모델을 학습시켰으며, 최종 순위 9등으로 해커톤을 마쳤습니다.
-    <br>(NAVER_AI_SPEECH)(https://github.com/psi9730/naver_ai_hackathon_speech)
+    <br>[(NAVER_AI_SPEECH)](https://github.com/psi9730/naver_ai_hackathon_speech)
 - layout: left
   name: 모두의 연구소(NLP-BOOT-CAMP 9기)
   quote: >
     Attention is All you need 부터 BERT까지 엄청난 속도로 발전되는 Transformer 기반 모델에 매우 큰 흥미를 느끼고 있습니다.
   description: | # this will include new lines to allow paragraphs
     매주 토요일 <mark>NLP</mark> 관련 논문을 함께 공부하고, 리뷰하는 스터디를 진행했습니다. Transformer, pre-training, data encoding 등 다양한 범위의 최신 NLP논문을 공부하고 있습니다.
-    <br>(DEEP_LEARNING_BLOG)(https://psi9730.github.io/machinelearning-blog/)
+    <br>[(DEEP_LEARNING_BLOG)](https://psi9730.github.io/machinelearning-blog/)
 - layout: left
   name: NLP 논문구현 (Transformer, GPT, BERT, T5)
   quote: >
     Transformer 기반 모델들을 Pytorch로 구현 및 학습시키는 프로젝트를 진행중입니다.
   description: | # this will include new lines to allow paragraphs
     매주 수요일 <mark>NLP</mark> 관련 논문을 함께 공부하고, 코드 리뷰하는 스터디를 진행 중입니다.
-    <br>(Transformer)(https://github.com/psi9730/transformers)
+    <br>[(Transformer)](https://github.com/psi9730/transformers)
 - layout: left
   name: 건양대학교 안저이미지 분류 해커톤
   description: | # this will include new lines to allow paragraphs
     4000장의 안저 이미지를 분석해, 정상, 황반 변성, 당뇨성망막병증, 망막정맥폐쇄 classification task를 수행. keras sequential모델로 코드를 작성하였으며, VGGNET model을 base로 classification을 했습니다. 94.5% accuracy로 대상(1등)을 수상하였습니다.
-    <br>(FUNDUS_CLASSIFICATION)(https://github.com/psi9730/Konyang-Health-Datatathon-2019)
+    <br>[(FUNDUS_CLASSIFICATION)](https://github.com/psi9730/Konyang-Health-Datatathon-2019)
