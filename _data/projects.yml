@@ -8,6 +8,11 @@
     의류대여 서비스 물류 관리 및 고객 관리 백 오피스 개발 프로젝트를 진행하고있습니다. Backend는 <mark>Node.js</mark> <mark>express</mark> 웹 어플리케이션 프레임워크 기반으로 진행중이며, FrontEnd는 <mark>React.js</mark>, <mark>typescript</mark>, <mark>mobx</mark>를 기반으로 개발을 진행중입니다.
     <br>[(BACKEND)](https://github.com/psi9730/monthly-closet-backend) [(FRONTEND)](https://github.com/psi9730/monthly-closet-web-front)
 - layout: left
+  name: 인플루언서 연결 플랫폼 및 백오피스
+  description: | # this will include new lines to allow paragraphs
+    Angular.js, php을 사용하여 마케팅이 필요한 파트너사와 인플루언서를 연결해주는 파트너 페이지를 개발하였습니다. 인플루언서 검색 및 통계페이지를 개발 하였으며, 백오피스로 결제 데이터 관리 플랫폼을 제작하였습니다. 
+    <br>[(MARKETIT)](https://partner.marketit.asia/#/auth)
+- layout: left
   name: Image matching
   description: | # this will include new lines to allow paragraphs
     <mark>YOLO</mark>기반으로 예측되는 상품의 box를 detect한 뒤에, TRIPLET LOSS를 이용하여 두가지 이미지에 대한 similarity를 비교해 해당 사진에 원하는 상품의 이미지가 있는지 여부를 판별하는 모델을 개발했습니다. validation accuracy는 판별여부에 대한 정답셋을 만들고, 특정 similarity 이상을 만족할때 정답으로 측정했습니다.
