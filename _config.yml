@@ -16,7 +16,8 @@ about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
 
 
-  I am most skilled in: <mark>tensorflow</mark>, <mark>pytorch</mark>, <mark>docker</mark>, <mark>react.js</mark>, <mark>vue.js</mark>, <mark>angular.js</mark>, <mark>jquery</mark>, <mark>mysql</mark>, <mark>react-native</mark>, <mark>django</mark>, <mark>php</mark>, <mark>node</mark>
+
+  I am most skilled in: <mark>node.js</mark>, <mark>docker</mark>, <mark>react.js</mark>, <mark>vue.js</mark>, <mark>angular.js</mark>, <mark>jquery</mark>, <mark>mysql</mark>, <mark>django</mark>, <mark>php</mark>, <mark>tensorflow</mark>, <mark>pytorch</mark>
 
 # Projects Section
 # projects_title: Projects
