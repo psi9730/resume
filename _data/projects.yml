@@ -6,7 +6,7 @@
   name: 의류관리 페이지 개발(진행중)
   description: | # this will include new lines to allow paragraphs
     의류대여 서비스 물류 관리 및 고객 관리 백 오피스 개발 프로젝트를 진행하고있습니다. Backend는 <mark>Node.js</mark> <mark>express</mark> 웹 어플리케이션 프레임워크 기반으로 진행중이며, FrontEnd는 <mark>React.js</mark>, <mark>typescript</mark>, <mark>mobx</mark>를 기반으로 개발을 진행중입니다.
-    <br>(BACKEND)(https://github.com/psi9730/monthly-closet-backend) <br>(FRONTEND)(https://github.com/psi9730/monthly-closet-web-front)
+    <br>(BACKEND)(https://github.com/psi9730/monthly-closet-backend) <br>(FRONTEND)(https://github.com/psi9730/monthly-closet-web-front) <br>(MALL)(https://github.com/psi9730/monthly-closet-mall-front)
 - layout: left
   name: 인플루언서 연결 플랫폼 및 백오피스
   description: | # this will include new lines to allow paragraphs
