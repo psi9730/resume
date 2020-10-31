@@ -1,44 +1,59 @@
 - layout: left
+  name: 뉴스 컨텐츠 플랫폼 개발(React, React Native)
+  description: | # this will include new lines to allow paragraphs
+    테크, 비즈니스, 트렌드와 관련해서 흥미롭고 트렌디한 뉴스를 쉽게 제공하는 플랫폼을 개발하고자, 대학교 동기들과 함께 프로젝트를 진행했습니다.
+    <mark>React.js</mark>, <mark>styled-component</mark>, <mark>AWS ec2</mark>, <mark>route53</mark>을 이용하여 소비자 반응을 알기 위한 웹 프로젝트를 배포하였습니다.
+    어드민 페이지는 react-admin을 이용하여 컨텐츠 관리를 하고 있습니다.
+    현재는 <mark>React-Native</mark>, <mark>typescript</mark>, <mark>styled-component</mark> 기반으로 앱 개발을 진행중입니다. 
+       <br>(웹페이지)<http://byte-news.com/>
+- layout: left
+  name: 그로스 해킹 실험 설계 및 배포
+  description: | # this will include new lines to allow paragraphs
+    <mark>React.js</mark>, <mark>Typescript</mark>, <mark>Vanilla js</mark>, <mark>jquery</mark>등 필요성에 따라 사용 라이브러리를 선택하여, 앱, 웹 사용성 개편을 위한 실험을 개발을 총괄했습니다. braze, amplitude기반 이벤트 로깅을 이용하여 사용자 활동 이벤트 로깅에 보다 신경썼습니다.
+    <br>
+    <mark>웹 개발</mark> 뿐만 아니라, <mark>실험 기획</mark>, <mark>디자인 스프린트</mark>, <mark>데이터 분석 업무(bigquery, metabase, amplitude, hotjar)</mark>를 병행하며 고객 여정을 발전 시킬 수 있도록 노력했습니다.
+    <br>
+    사용자 여정 지도에서 이탈율이 높은 부분(온보딩 페이지, 장바구니 페이지)에서 출발하여, 데이터 기반으로 사용자의 리텐션과 구매지표를 높이기 위한 실험을 설계했습니다.
+
+- layout: left
+  name: 스타일 쉐어 이벤트 페이지 및 온보딩 웹 페이지 개발
+  description: | # this will include new lines to allow paragraphs
+    <mark>React.js</mark>, <mark>Typescript</mark>, <mark>AWS S3</mark>, <mark>cloudfront</mark>를 이용하여 사내에서 진행하는 고객 이벤트 페이지(raffle, 쇼핑심리테스트, 스타일 이상형월드컵), 온보딩 페이지 등의 웹페이지 개발을 총괄했습니다.
+    <br>(쇼핑유형분석)<https://experiment.styleshare.kr/p/season-off-2020-summer/product/#/>
+    <br>(weekly-news-letter)<https://experiment.styleshare.kr/p/weekly-news-letter/#/>
+    <br>(스타일 추천 페이지)<https://experiment.styleshare.kr/p/recommend-onboarding/#/>
+
+- layout: left
   name: 공구마켓 쇼핑몰 페이지 개발
   description: | # this will include new lines to allow paragraphs
     인플루언서마다 개인 쇼핑몰 페이지를 개설해주는 웹 개발 프로젝트를 진행했습니다. Vue.js를 기반으로 <mark>fully dockerized project</mark>를 개발했으며, <mark>Jenkins(CI) tool</mark>, <mark>AWS(ECR, ECS)</mark>을 이용한 자동배포 및 테스트환경을 사내에서 처음 적용시켰습니다.
 - layout: left
-  name: 의류관리 페이지 개발(진행중)
-  description: | # this will include new lines to allow paragraphs
-    의류대여 서비스 물류 관리 및 고객 관리 백 오피스 개발 프로젝트를 진행하고있습니다. Backend는 <mark>Node.js</mark> <mark>express</mark> 웹 어플리케이션 프레임워크 기반으로 진행중이며, FrontEnd는 <mark>React.js</mark>, <mark>typescript</mark>, <mark>mobx</mark>를 기반으로 개발을 진행중입니다.
-    <br>(BACKEND)(https://github.com/psi9730/monthly-closet-backend) <br>(FRONTEND)(https://github.com/psi9730/monthly-closet-web-front) <br>(MALL)(https://github.com/psi9730/monthly-closet-mall-front)
-- layout: left
   name: 인플루언서 연결 플랫폼 및 백오피스
   description: | # this will include new lines to allow paragraphs
-    Angular.js, php을 사용하여 마케팅이 필요한 파트너사와 인플루언서를 연결해주는 파트너 페이지를 개발하였습니다. 인플루언서 검색 및 통계페이지를 개발 하였으며, 백오피스로 결제 데이터 관리 플랫폼을 제작하였습니다. 
-    <br>(MARKETIT)(https://partner.marketit.asia/#/auth)
-- layout: left
-  name: Image matching
-  description: | # this will include new lines to allow paragraphs
-    <mark>YOLO</mark>기반으로 예측되는 상품의 box를 detect한 뒤에, TRIPLET LOSS를 이용하여 두가지 이미지에 대한 similarity를 비교해 해당 사진에 원하는 상품의 이미지가 있는지 여부를 판별하는 모델을 개발했습니다. validation accuracy는 판별여부에 대한 정답셋을 만들고, 특정 similarity 이상을 만족할때 정답으로 측정했습니다.
+    Angular.js, php을 사용하여 마케팅이 필요한 파트너사와 인플루언서를 연결해주는 파트너 페이지를 개발하였습니다. 인플루언서 검색 및 통계페이지를 개발 하였으며, 백오피스로 결제 데이터 관리 플랫폼을 제작하였습니다.
 - layout: left
   name: Naver AI Hackathon 2019 speech
   quote: >
-   새로운 목표를 가지게 해주었던 AI hackathon, speech에 대한 이해와 동시에 함께하는 코딩의 재미를 알게해준 해준 시간이었습니다.
+    새로운 목표를 가지게 해주었던 AI hackathon, speech에 대한 이해와 동시에 함께하는 코딩의 재미를 알게해준 해준 시간이었습니다.
   description: | # this will include new lines to allow paragraphs
     실제 한국어 전화 DB를 이용한 음성인식을 주제로 약 한달간 해커톤을 진행했습니다. <mark>Seq2Seq model</mark>을 기반으로 모델을 학습시켰으며, 최종 순위 9등으로 해커톤을 마쳤습니다.
-    <br>(NAVER_AI_SPEECH)(https://github.com/psi9730/naver_ai_hackathon_speech)
+    <br>(NAVER_AI_SPEECH)<https://github.com/psi9730/naver_ai_hackathon_speech>
 - layout: left
   name: 모두의 연구소(NLP-BOOT-CAMP 9기)
   quote: >
     Attention is All you need 부터 BERT까지 엄청난 속도로 발전되는 Transformer 기반 모델에 매우 큰 흥미를 느끼고 있습니다.
   description: | # this will include new lines to allow paragraphs
-    매주 토요일 <mark>NLP</mark> 관련 논문을 함께 공부하고, 리뷰하는 스터디를 진행했습니다. Transformer, pre-training, data encoding 등 다양한 범위의 최신 NLP논문을 공부하고 있습니다.
-    <br>(DEEP_LEARNING_BLOG)(https://psi9730.github.io/machinelearning-blog/)
+    매주 토요일 <mark>NLP</mark> 관련 논문을 함께 공부하고, 리뷰하는 스터디를 진행했습니다. Transformer, pre-training, data encoding 등 다양한 범위의 최신 NLP논문을 공부했습니다.
+    <br>(DEEP_LEARNING_BLOG)<https://psi9730.github.io/machinelearning-blog/>
 - layout: left
   name: NLP 논문구현 (Transformer, GPT, BERT, T5)
   quote: >
-    Transformer 기반 모델들을 Pytorch로 구현 및 학습시키는 프로젝트를 진행중입니다.
+    Transformer 기반 모델들을 Pytorch로 구현 및 학습시키는 프로젝트를 진행했습니다.
   description: | # this will include new lines to allow paragraphs
-    매주 수요일 <mark>NLP</mark> 관련 논문을 함께 공부하고, 코드 리뷰하는 스터디를 진행 중입니다.
-    <br>(Transformer)(https://github.com/psi9730/transformers)
+    매주 수요일 <mark>NLP</mark> 관련 논문을 함께 공부하고, 코드 리뷰하는 스터디를 진행했습니다.
+    <br>(Transformer)<https://github.com/psi9730/transformers>
 - layout: left
   name: 건양대학교 안저이미지 분류 해커톤
   description: | # this will include new lines to allow paragraphs
     4000장의 안저 이미지를 분석해, 정상, 황반 변성, 당뇨성망막병증, 망막정맥폐쇄 classification task를 수행. keras sequential모델로 코드를 작성하였으며, VGGNET model을 base로 classification을 했습니다. 94.5% accuracy로 대상(1등)을 수상하였습니다.
-    <br>(FUNDUS_CLASSIFICATION)(https://github.com/psi9730/Konyang-Health-Datatathon-2019)
+    <br>(FUNDUS_CLASSIFICATION)<https://github.com/psi9730/Konyang-Health-Datatathon-2019>
