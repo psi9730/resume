@@ -4,8 +4,13 @@ repository: psi9730/resume
 # Personal info
 name: Seungil Park
 title: web programmer
+<<<<<<< HEAD
 email: psi9730@naver.com
 website: psi9730.github.io/machinelearning-blog/
+=======
+email: psi9730@gmail.com
+website: psi9730.github.io/resume/
+>>>>>>> c3a469e238cff2e56396f728ff223044738e4f3d
 
 # Social links
 github_username: psi9730
@@ -14,10 +19,14 @@ github_username: psi9730
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
+<<<<<<< HEAD
 
 
 
   I am most skilled in: <mark>node.js</mark>, <mark>docker</mark>, <mark>react.js</mark>, <mark>vue.js</mark>, <mark>angular.js</mark>, <mark>jquery</mark>, <mark>mysql</mark>, <mark>django</mark>, <mark>php</mark>, <mark>tensorflow</mark>, <mark>pytorch</mark>
+=======
+  I am most skilled in: <mark>react.js</mark>, <mark>react-native</mark>, <mark>typescript</mark>, <mark>jquery</mark>, <mark>google optimize</mark>, <mark>tag manager</mark>, <mark>braze</mark>, <mark>node.js</mark>, <mark>docker</mark>, <mark>mysql</mark>, <mark>tensorflow</mark>, <mark>pytorch</mark>, <mark>vue.js</mark>
+>>>>>>> c3a469e238cff2e56396f728ff223044738e4f3d
 
 # Projects Section
 # projects_title: Projects
@@ -32,8 +41,7 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   웹 프로그래밍, 머신러닝 공부 이외의 나의 관심사:
-   - 운동(웨이트 트레이닝, 필라테스)
-   - 맛있는 음식 먹기
+   - 운동(웨이트 트레이닝)
 
 # Footer
 footer_show_references: false
