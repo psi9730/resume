@@ -14,7 +14,7 @@ github_username: psi9730
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  I am most skilled in: <mark>react.js</mark>, <mark>react-native</mark>, <mark>typescript</mark>, <mark>jquery</mark>, <mark>google optimize</mark>, <mark>tag manager</mark>, <mark>braze</mark>, <mark>node.js</mark>, <mark>docker</mark>, <mark>mysql</mark>, <mark>tensorflow</mark>, <mark>pytorch</mark>, <mark>vue.js</mark>
+  I am most skilled in: <mark>react.js</mark>, <mark>typescript</mark>, <mark>jquery</mark>, <mark>google optimize</mark>, <mark>google tag manager</mark>, <mark>braze</mark>, <mark>node.js</mark>, <mark>docker</mark>, <mark>mysql</mark>, <mark>tensorflow</mark>, <mark>pytorch</mark>
 
 # Projects Section
 # projects_title: Projects

@@ -1,17 +1,4 @@
 - layout: left
-  company: AIMS
-  job_title: software engineering
-  dates: 2017년 12월 - 2018년 3월
-  description: | # this will include new lines to allow paragraphs
-    Drools 룰엔진, mysql database, 텍스트마이닝을 이용한 보험산업 레그테크 개발
-- layout: left
-  company: 앰블랩스
-  link: https://book.easi6.com/booking?step=1
-  job_title: web programmer, mobile application programmer
-  dates: 2018년 3월 - 2018년 9월
-  description: | # this will include new lines to allow paragraphs
-    react-native, node.js, mongo DB, mysql를 이용한 공기청정기 컨트롤 어플리케이션 제작 react.js
-- layout: left
   company: 마켓잇-산업기능요원
   link: https://marketit.asia/
   job_title: web programmer, deep learning engineer

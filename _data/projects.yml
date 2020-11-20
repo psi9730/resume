@@ -30,12 +30,7 @@
 - layout: left
   name: 인플루언서 연결 플랫폼 및 백오피스
   description: | # this will include new lines to allow paragraphs
-    Angular.js, php을 사용하여 마케팅이 필요한 파트너사와 인플루언서를 연결해주는 파트너 페이지를 개발하였습니다. 인플루언서 검색 및 통계페이지를 개발 하였으며, 백오피스로 결제 데이터 관리 플랫폼을 제작하였습니다. 
-    <br>[(MARKETIT)](https://partner.marketit.asia/#/auth)
-- layout: left
-  name: Image matching
-  description: | # this will include new lines to allow paragraphs
-    Angular.js, php을 사용하여 마케팅이 필요한 파트너사와 인플루언서를 연결해주는 파트너 페이지를 개발하였습니다. 인플루언서 검색 및 통계페이지를 개발 하였으며, 백오피스로 결제 데이터 관리 플랫폼을 제작하였습니다.
+    Angular.js, php을 사용하여 마케팅이 필요한 파트너사와 인플루언서를 연결해주는 파트너 페이지를 개발하였습니다. 인플루언서 검색 및 통계페이지를 개발 하였으며, 아임포트 결제서비스를 이용한 결제 데이터 관리 플랫폼 페이지를 제작하였습니다.
 - layout: left
   name: Naver AI Hackathon 2019 speech
   quote: >
@@ -46,7 +41,7 @@
 - layout: left
   name: 모두의 연구소(NLP-BOOT-CAMP 9기)
   quote: >
-    Attention is All you need 부터 BERT까지 엄청난 속도로 발전되는 Transformer 기반 모델에 매우 큰 흥미를 느끼고 있습니다.
+    Attention is All you need 부터 BERT까지 엄청난 속도로 발전되는 Transformer 기반 모델에 흥미를 느끼고 있습니다.
   description: | # this will include new lines to allow paragraphs
     매주 토요일 <mark>NLP</mark> 관련 논문을 함께 공부하고, 리뷰하는 스터디를 진행했습니다. Transformer, pre-training, data encoding 등 다양한 범위의 최신 NLP논문을 공부했습니다.
     <br>(DEEP_LEARNING_BLOG)<https://psi9730.github.io/machinelearning-blog/>
@@ -56,7 +51,7 @@
     Transformer 기반 모델들을 Pytorch로 구현 및 학습시키는 프로젝트를 진행했습니다.
   description: | # this will include new lines to allow paragraphs
     매주 수요일 <mark>NLP</mark> 관련 논문을 함께 공부하고, 코드 리뷰하는 스터디를 진행했습니다.
-    <br>(Transformer)<https://github.com/psi9730/transformers>
+
 - layout: left
   name: 건양대학교 안저이미지 분류 해커톤
   description: | # this will include new lines to allow paragraphs
