@@ -6,11 +6,18 @@
   description: | # this will include new lines to allow paragraphs
     회사내부툴 개발(angular.js), 공구마켓 쇼핑몰 웹 개발(vue.js), 서버 API 개발(php), CAFE24 리뷰 플러그인 개발(jquery) php, 사내 딥러닝 프로젝트 진행(tensorflow)
 - layout: left
-  company: 스타일쉐어-산업기능요원(복무중)
+  company: 스타일쉐어-산업기능요원
   link: https://www.styleshare.kr/
   job_title: web programmer, growth hacker
-  dates: 2020년 3월 - 현재
+  dates: 2020년 3월 - 2021년 2월
   description: | # this will include new lines to allow paragraphs
     그로스해커 프론트 엔지니어로써, Google Optimize, Google Tag manager, Braze 실험 환경 위에서 앱, 웹 서비스 향상을 위한 실험을 기획, 배포하는 역할을 맡았습니다.
-    실험은 환경에 따라, vanilla js, jquery, react.js, typescript을 이용하여 작업하였으며. amplitude logging service을 이용하여 이벤트를 로깅하였으며, 
-    Big query, metabase, hotjar를 이용하여 실험분석 및 설계를 진행했습니다.
+    실험은 환경에 따라, vanilla js, jquery, react.js, typescript을 이용하여 작업하였습니다.
+    Big query, metabase, hotjar를 이용하여 실험분석 및 설계를 진행하였습니다.
+- layout: left
+  company: 채널톡-산업기능요원(복무중)
+  link: https://desk.channel.io/
+  job_title: web programmer
+  dates: 2020년 2월 - 현재
+  description: | # this will include new lines to allow paragraphs
+    react.js, typescript, redux-saga 기반으로, 채널톡 서비스 전반의 유지보수 및 개선을 진행하고있습니다.
